@@ -30,7 +30,7 @@ HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
 
-INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\build\include
-INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\build\include\opencv
-INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\build\include\opencv2
-LIBS += D:\OpenCV\OpenCV2.4.13\opencv\build\x86\vc12\lib\*.lib
+INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\myBuild\install\include
+INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\myBuild\install\include\opencv
+INCLUDEPATH += D:\OpenCV\OpenCV2.4.13\opencv\myBuild\install\include\opencv2
+LIBS +=D:\OpenCV\OpenCV2.4.13\opencv\myBuild\install\lib\*.lib
